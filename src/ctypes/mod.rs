@@ -128,4 +128,3 @@ pub extern "C" fn toupper(c: c_int) -> c_int {
 
     c
 }
-
